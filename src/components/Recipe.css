@@ -1,0 +1,27 @@
+div.reviewsText {
+  width: 100%;
+}
+
+div.poster {
+  margin: 10px;
+}
+
+p.review {
+  white-space: pre-line;
+}
+
+.bigPicture {
+  float: right;
+  border: rgb(255, 254, 206) solid;
+  border-style: ridge;
+  border-width: 10px;
+  height: 100%;
+}
+
+.primary {
+  background-color: green;
+}
+
+.secondary {
+  background-color: rgb(255, 0, 0);
+}

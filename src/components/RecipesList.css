@@ -1,0 +1,59 @@
+.recipeRow {
+  margin-top: 15px;
+}
+
+.card {
+  margin-top: 15px;
+}
+
+.recipeListCard {
+  width: 18rem;
+}
+
+div.poster {
+  width: 100%;
+  margin: auto;
+}
+
+.smallPoster {
+  user-select: none;
+}
+.inner {
+  overflow: hidden;
+  transition: max-height 0.2s ease;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.heart {
+  position: absolute;
+  width: 33em;
+  height: 2em;
+  margin-top: 0.5em;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.heartEmpty {
+  stroke: white;
+}
+
+.page_txt {
+  font-family: "Lobster", cursive;
+  text-align: center;
+  text-emphasis-color: black;
+}
+
+.primary {
+  background-color: green;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 7; /* number of lines to show */
+          line-clamp: 7;
+  -webkit-box-orient: vertical;
+}
+
+

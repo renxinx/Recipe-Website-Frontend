@@ -1,0 +1,12 @@
+.NoSavedBackground{
+    height: 500px;
+}
+    
+    
+.NoSavedCard{
+    font-size: 50px;
+    font-family: "Lobster", cursive;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
